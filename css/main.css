@@ -690,7 +690,7 @@ label.error {
 }
 
 .footer-single {
-  line-height: 24px;
+  line-height: 20px;
 }
 
 .footer-single ul {
@@ -714,7 +714,6 @@ label.error {
 
 .copyright {
   color: #fff;
-  margin-top: 100px;
 }
 
 #back-top {
