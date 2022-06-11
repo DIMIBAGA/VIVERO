@@ -655,12 +655,7 @@ label.error {
   color: #062033;
 }
 
-.footer h6 {
-  font-size: 14px;
-  font-weight: 700;
-  line-height: 24px;
-  margin-bottom: 30px;
-}
+
 
 .about-us p {
   line-height: 24px;
@@ -693,8 +688,7 @@ label.error {
   line-height: 20px;
 }
 
-.footer-single ul {
-  }
+
 
 .footer-single li {
   line-height: 32px;
@@ -721,4 +715,21 @@ label.error {
   position: fixed;
   right: 25px;
   z-index: 9;
+}
+
+#footer10 {
+  background: #111;
+  padding: 30px 0;
+  color: #fff;
+}
+
+#footer10 .copyright {
+  text-align: center;
+}
+
+#footer10 .credits {
+  padding-top: 10px;
+  text-align: center;
+  font-size: 13px;
+  color: #ccc;
 }
