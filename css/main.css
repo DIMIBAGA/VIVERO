@@ -237,13 +237,13 @@ top: -8px;
 }
 
 .social-links li a {
-  color: rgba(255, 255, 255, 0.3);
+  color: #ccc;
   display: block;
   margin: 0 6px;
 }
 
 .social-links li a:hover {
-  color: #fff;
+  color: #32B0EE;
 }
 
 .carousel-indicators {
